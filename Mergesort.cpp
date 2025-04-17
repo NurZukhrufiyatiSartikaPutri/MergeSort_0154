@@ -18,4 +18,8 @@ void input() {
         }
     }
 
-   {}
+    cout << "\n==========================";
+    cout << "\nInputkan Isi Element Array";
+    cout << "\n==========================" << endl;
+
+}
